@@ -1,0 +1,416 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.clubinternacionalelcentro.org/sites/default/files/logo.ico" type="image/vnd.microsoft.icon" />
+<script src="https://www.google.com/recaptcha/api.js?hl=es" async="async" defer="defer"></script>
+<link rel="canonical" href="/gran-promo-supermercado" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/node/899" />
+  <title>Gran Promo Supermercado | ::: Club Internacional El Centro:::</title>
+  <style type="text/css" media="all">
+@import url("http://www.clubinternacionalelcentro.org/modules/system/system.base.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/modules/system/system.menus.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/modules/system/system.messages.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/modules/system/system.theme.css?qrintc");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.clubinternacionalelcentro.org/sites/all/modules/date/date_api/date.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/modules/date/date_repeat_field/date_repeat_field.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/modules/field/theme/field.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/modules/node/node.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/modules/search/search.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/modules/user/user.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/modules/views/css/views.css?qrintc");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.clubinternacionalelcentro.org/sites/all/modules/ckeditor/ckeditor.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/modules/ctools/css/ctools.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/modules/nice_menus/css/nice_menus.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/modules/nice_menus/css/nice_menus_default.css?qrintc");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/html-reset.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/wireframes.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/layout-fixed.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/page-backgrounds.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/tabs.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/pages.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/blocks.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/navigation.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/views-styles.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/nodes.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/comments.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/forms.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/fields.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/screen.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/colorbox.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/estilos.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/galeria.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/jScrollPane.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/menu.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/noticiashome.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/sliderhome.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/carouselengine/initcarousel-1.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/fullcalendar.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/menulateral.css?qrintc");
+</style>
+<style type="text/css" media="print">
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/print.css?qrintc");
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/fullcalendar.print.css?qrintc");
+</style>
+
+<!--[if lte IE 7]>
+<style type="text/css" media="all">
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/ie7.css?qrintc");
+</style>
+<![endif]-->
+
+<!--[if lte IE 6]>
+<style type="text/css" media="all">
+@import url("http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/css/ie6.css?qrintc");
+</style>
+<![endif]-->
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>  
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.5/jquery.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/misc/drupal.js?qrintc"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/modules/nice_menus/js/jquery.bgiframe.js?v=2.1"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/modules/nice_menus/js/jquery.hoverIntent.js?v=0.5"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/modules/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/modules/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/default/files/languages/es_BuoBWl3u7nLJ_a6FnfFdQVxFAjavZOaWBazd0zIxL3E.js?qrintc"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/modules/captcha/captcha.js?qrintc"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/js/moment.min.js?qrintc"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/js/fullcalendar.min.js?qrintc"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/js/lang-all.js?qrintc"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/js/jScrollPane.js?qrintc"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/js/coin-slider.js?qrintc"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/js/jcarousellite_1.0.1c4.js?qrintc"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/js/jquery.colorbox.js?qrintc"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/js/jquery.tinycarousel.min.js?qrintc"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/js/swfobject_modified.js?qrintc"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/carouselengine/amazingcarousel.js?qrintc"></script>
+<script type="text/javascript" src="http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/carouselengine/initcarousel-1.js?qrintc"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"internacional","theme_token":"gBJH__YMIO-l2iHBH8aNAkRzjW3DtliRafKCPQdaImk","js":{"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.5.2\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/js\/nice_menus.js":1,"public:\/\/languages\/es_BuoBWl3u7nLJ_a6FnfFdQVxFAjavZOaWBazd0zIxL3E.js":1,"sites\/all\/modules\/captcha\/captcha.js":1,"sites\/all\/themes\/internacional\/js\/moment.min.js":1,"sites\/all\/themes\/internacional\/js\/fullcalendar.min.js":1,"sites\/all\/themes\/internacional\/js\/lang-all.js":1,"sites\/all\/themes\/internacional\/js\/jScrollPane.js":1,"sites\/all\/themes\/internacional\/js\/coin-slider.js":1,"sites\/all\/themes\/internacional\/js\/jcarousellite_1.0.1c4.js":1,"sites\/all\/themes\/internacional\/js\/jquery.colorbox.js":1,"sites\/all\/themes\/internacional\/js\/jquery.tinycarousel.min.js":1,"sites\/all\/themes\/internacional\/js\/swfobject_modified.js":1,"sites\/all\/themes\/internacional\/carouselengine\/amazingcarousel.js":1,"sites\/all\/themes\/internacional\/carouselengine\/initcarousel-1.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus_default.css":1,"sites\/all\/themes\/internacional\/css\/html-reset.css":1,"sites\/all\/themes\/internacional\/css\/wireframes.css":1,"sites\/all\/themes\/internacional\/css\/layout-fixed.css":1,"sites\/all\/themes\/internacional\/css\/page-backgrounds.css":1,"sites\/all\/themes\/internacional\/css\/tabs.css":1,"sites\/all\/themes\/internacional\/css\/pages.css":1,"sites\/all\/themes\/internacional\/css\/blocks.css":1,"sites\/all\/themes\/internacional\/css\/navigation.css":1,"sites\/all\/themes\/internacional\/css\/views-styles.css":1,"sites\/all\/themes\/internacional\/css\/nodes.css":1,"sites\/all\/themes\/internacional\/css\/comments.css":1,"sites\/all\/themes\/internacional\/css\/forms.css":1,"sites\/all\/themes\/internacional\/css\/fields.css":1,"sites\/all\/themes\/internacional\/css\/screen.css":1,"sites\/all\/themes\/internacional\/css\/colorbox.css":1,"sites\/all\/themes\/internacional\/css\/estilos.css":1,"sites\/all\/themes\/internacional\/css\/galeria.css":1,"sites\/all\/themes\/internacional\/css\/jScrollPane.css":1,"sites\/all\/themes\/internacional\/css\/menu.css":1,"sites\/all\/themes\/internacional\/css\/noticiashome.css":1,"sites\/all\/themes\/internacional\/css\/sliderhome.css":1,"sites\/all\/themes\/internacional\/carouselengine\/initcarousel-1.css":1,"sites\/all\/themes\/internacional\/css\/fullcalendar.css":1,"sites\/all\/themes\/internacional\/css\/menulateral.css":1,"sites\/all\/themes\/internacional\/css\/print.css":1,"sites\/all\/themes\/internacional\/css\/fullcalendar.print.css":1,"sites\/all\/themes\/internacional\/css\/ie7.css":1,"sites\/all\/themes\/internacional\/css\/ie6.css":1}},"nice_menus_options":{"delay":800,"speed":"slow"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-899 node-type-pagina-b-sica section-gran-promo-supermercado" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      <script type="text/javascript">
+jQuery.noConflict();
+(function( $ ) {
+  $(function() {
+    $('#pane1').jScrollPane({showArrows:true,scrollbarWidth:10, scrollbarMargin:20});
+  });
+})(jQuery);
+</script>
+<!--fondotop-->
+<div class="fondotop">
+</div>
+<!--finfondotop-->
+
+<!--logoyredes-->
+<div class="contlogoyredes">
+	<div class="container">
+    	<!--logo-->
+        <div class="logo">
+                          <a href="/" title="Inicio" rel="home" id="logo">
+                <img src="http://www.clubinternacionalelcentro.org/sites/all/themes/internacional/logo.png" alt="Inicio" width="697" height="197" />
+              </a>
+                    
+        </div>
+        <!--finlogo-->
+        
+        <!--redesyregistro-->
+        <div class="redesydatos">
+            <!--datostop-->
+            <div class="datostop">
+                  <div class="region region-datos">
+    <div id="block-views-datos-arriba-block" class="block block-views first last odd">
+
+      
+  <div class="content">
+    <div class="view view-datos-arriba view-id-datos_arriba view-display-id-block view-dom-id-04e6ee5631467171facbd21e5c896678">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-body">        <div class="field-content"><p><a href="mailto:secretariagerencia@clubinternacional.com.co">secretariagerencia@clubinternacional.com.co</a> <br />
+	Tel: 3144745963<br />
+	<a href="http://www.clubinternacionalelcentro.org/trabaja-con-nosotros"><img alt="" src="/sites/default/files/images/configuracion/btntrabaje.png" style="width: 300px; height: 37px;" /></a></p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+            </div>
+            <!--findatostop-->
+            
+            <!--redes-->
+            <div class="redes">
+                  <div class="region region-redes">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <div class="content">
+    <p><a href="https://www.facebook.com/Club-Internacional-Barrancabermeja-938817192908017/" target="_blank"><img alt="" src="/sites/default/files/images/configuracion/facebook.png" style="width: 45px; height: 46px;" /></a><a href="https://twitter.com/clubintern?ref_src=twsrc%5Etfw&amp;ref_url=http%3A%2F%2Fwww.clubinternacionalelcentro.org%2F%23overlay-context%3D" target="_blank"><img alt="" src="/sites/default/files/images/configuracion/twitter.png" style="width: 45px; height: 46px;" /></a><a href="https://www.instagram.com/clubinternacional_barr/" target="_blank"><img alt="" src="/sites/default/files/images/instagram-logo-png-transparent-background-download.png" style="width: 45px; height: 45px;" /></a><a href="https://www.youtube.com/channel/UC5TXt6J9H441MuHhstiLetA/videos" target="_blank"><img alt="" src="/sites/default/files/images/logoyoutube.png" style="width: 45px; height: 46px;" /></a><a href="http://wa.me/573166074172" target="_blank"><img alt="" src="/sites/default/files/images/icono_wapp_web.png" style="width: 45px; height: 45px;" /></a><a href="https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx?ID=3737" target="_blank"><img alt="" src="/sites/default/files/images/configuracion/logo_pse.png" style="width: 45px; height: 45px;" /></a></p>
+  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+            </div>
+            <!--finredes-->
+        </div>
+        <!--finredesyregistro-->
+        
+    </div>
+</div>
+<!--logoyredes-->
+
+<!--contmenu-->
+<div class="contmenu">
+	<div class="container">
+          <div class="region region-menu">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+      
+  <div class="content">
+    <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu-218 menu-path-front first odd "><a href="/" title="">Inicio</a></li>
+<li class="menu-564 menu-path-clubinternacionalelcentroorg-c3baltimas-noticias  even "><a href="http://www.clubinternacionalelcentro.org/%C3%BAltimas-noticias" title="">Últimas Noticias</a></li>
+<li class="menu-401 menuparent  menu-path-javascript-void0  odd "><a href="javascript: void(0);" title="">El Club</a><ul><li class="menu-661 menu-path-sclubinternacionalelcentroorg-estados-financieros-y-revelaciones-2021 first odd "><a href="https://www.clubinternacionalelcentro.org/estados-financieros-y-revelaciones-2021" title="">E_Financieros 2021</a></li>
+<li class="menu-624 menu-path-clubinternacionalelcentroorg-inscripcion-datos-  even "><a href="http://www.clubinternacionalelcentro.org/inscripcion_datos/" title="">Actualiza</a></li>
+<li class="menu-402 menu-path-node-1  odd "><a href="/mision-vision">Misión y visión</a></li>
+<li class="menu-508 menu-path-node-35  even "><a href="/historia">Historia</a></li>
+<li class="menu-504 menu-path-node-31  odd "><a href="/canjes-con-otros-clubes">Canjes con otros Clubes</a></li>
+<li class="menu-642 menu-path-clubinternacionalelcentroorg-directorio-dependencias  even "><a href="http://www.clubinternacionalelcentro.org/directorio-dependencias" title="">Directorio Dependencias</a></li>
+<li class="menu-505 menu-path-node-32  odd "><a href="/horario-de-servicios">Horario de servicios</a></li>
+<li class="menu-554 menu-path-clubinternacionalelcentroorg-proteccic3b3n-datos-personales  even "><a href="http://www.clubinternacionalelcentro.org/protecci%C3%B3n-datos-personales" title="">Manual Protección Datos</a></li>
+<li class="menu-558 menu-path-clubinternacionalelcentroorg-junta-directiva-0  odd "><a href="http://www.clubinternacionalelcentro.org/junta-directiva-0" title="">Junta Directiva</a></li>
+<li class="menu-623 menu-path-clubinternacionalelcentroorg-doc-per-re-tri-especial-  even last"><a href="http://clubinternacionalelcentro.org/doc_per_re_tri_especial/" title="">RTE</a></li>
+</ul></li>
+<li class="menu-404 menuparent  menu-path-javascript-void0  even "><a href="javascript: void(0);" title="">Escuelas</a><ul><li class="menu-628 menu-path-clubinternacionalelcentroorg-federaciones first odd "><a href="http://www.clubinternacionalelcentro.org/federaciones" title="">Federaciones Deportivas</a></li>
+<li class="menu-509 menu-path-clubinternacionalelcentroorg-escuelas-deportivas-1  even "><a href="http://www.clubinternacionalelcentro.org/escuelas-deportivas-1" title="">Escuelas Deportivas</a></li>
+<li class="menu-511 menuparent  menu-path-javascript-void0  odd "><a href="javascript: void(0);" title="">Escuela de Natación</a><ul><li class="menu-569 menu-path-clubinternacionalelcentroorg-escuela-de-natacic3b3n first odd "><a href="http://www.clubinternacionalelcentro.org/escuela-de-nataci%C3%B3n" title="">Natación</a></li>
+<li class="menu-637 menu-path-clubinternacionalelcentroorg-noticias-natacic3b3n-0  even last"><a href="http://www.clubinternacionalelcentro.org/noticias-nataci%C3%B3n-0" title="">Noticias Natación</a></li>
+</ul></li>
+<li class="menu-512 menuparent  menu-path-clubinternacionalelcentroorg-escuela-de-tenis-0  even "><a href="http://www.clubinternacionalelcentro.org/escuela-de-tenis-0" title="">Escuela de Tenis</a><ul><li class="menu-629 menu-path-clubinternacionalelcentroorg-escuela-de-tenis-0 first odd "><a href="http://www.clubinternacionalelcentro.org/escuela-de-tenis-0" title="">Información Escuela</a></li>
+<li class="menu-630 menu-path-clubinternacionalelcentroorg-noticias-tenisoverlay-context  even last"><a href="http://www.clubinternacionalelcentro.org/noticias-tenis#overlay-context=" title="">Noticias Escuela</a></li>
+</ul></li>
+<li class="menu-566 menu-path-clubinternacionalelcentroorg-gimnasio  odd "><a href="http://www.clubinternacionalelcentro.org/gimnasio" title="">Gimnasio</a></li>
+<li class="menu-626 menu-path-clubinternacionalelcentroorg-notificaciones-golf  even last"><a href="http://www.clubinternacionalelcentro.org/notificaciones-golf" title="">Noticias Golf</a></li>
+</ul></li>
+<li class="menu-516 menuparent  menu-path-javascript-void0  odd "><a href="javascript: void(0);" title="">Galerías</a><ul><li class="menu-662 menu-path-sfacebookcom-clubdeportivoysocialinternacional-photos-pcb4882631335193230-4882627498526947- first odd "><a href="https://www.facebook.com/Clubdeportivoysocialinternacional/photos/pcb.4882631335193230/4882627498526947/" title="">Día de la Madre 2022</a></li>
+<li class="menu-660 menu-path-sfacebookcom-clubdeportivoysocialinternacional-photos-pcb4281334105322959-4281331865323183-  even "><a href="https://www.facebook.com/Clubdeportivoysocialinternacional/photos/pcb.4281334105322959/4281331865323183/" title="">Día niños 2021</a></li>
+<li class="menu-658 menu-path-sfacebookcom-clubdeportivoysocialinternacional-photos-pcb3404920639630981-3404918299631215-  odd "><a href="https://www.facebook.com/Clubdeportivoysocialinternacional/photos/pcb.3404920639630981/3404918299631215/" title="">Navidad 2020</a></li>
+<li class="menu-657 menu-path-sfacebookcom-clubdeportivoysocialinternacional-photos-pcb3269466896509690-3269463696510010-  even "><a href="https://www.facebook.com/Clubdeportivoysocialinternacional/photos/pcb.3269466896509690/3269463696510010/" title="">Halloween 2020</a></li>
+<li class="menu-656 menu-path-sfacebookcom-clubdeportivoysocialinternacional-photos-pcb2460509904072064-2460497434073311-type3theater  odd "><a href="https://www.facebook.com/Clubdeportivoysocialinternacional/photos/pcb.2460509904072064/2460497434073311/?type=3&amp;theater" title="">Lunada 2019</a></li>
+<li class="menu-653 menu-path-sfacebookcom-clubdeportivoysocialinternacional-photos-pcb2389339751189080-2389338301189225-type3theater  even "><a href="https://www.facebook.com/Clubdeportivoysocialinternacional/photos/pcb.2389339751189080/2389338301189225/?type=3&amp;theater" title="">Bingo Bailable 2019</a></li>
+<li class="menu-652 menu-path-sfacebookcom-clubdeportivoysocialinternacional-photos-pcb2389296727860049-2389296041193451-type3theater  odd "><a href="https://www.facebook.com/Clubdeportivoysocialinternacional/photos/pcb.2389296727860049/2389296041193451/?type=3&amp;theater" title="">Día del Niño 2019</a></li>
+<li class="menu-648 menu-path-sfacebookcom-clubdeportivoysocialinternacional-photos-pcb2317149555074767-2317114935078229-type3theater  even "><a href="https://www.facebook.com/Clubdeportivoysocialinternacional/photos/pcb.2317149555074767/2317114935078229/?type=3&amp;theater" title="">Amor y Amistad 2019</a></li>
+<li class="menu-647 menu-path-sfacebookcom-pg-clubdeportivoysocialinternacional-photos-tabalbumalbum-id2247453305377726  odd last"><a href="https://www.facebook.com/pg/Clubdeportivoysocialinternacional/photos/?tab=album&amp;album_id=2247453305377726" title="">67 Torneo Petrolero</a></li>
+</ul></li>
+<li class="menu-545 menuparent  menu-path-javascript-void0  even "><a href="javascript: void(0);" title="">Otros servicios</a><ul><li class="menu-551 menu-path-clubinternacionalelcentroorg-hotel first odd "><a href="http://www.clubinternacionalelcentro.org/hotel" title="">Hotel</a></li>
+<li class="menu-548 menu-path-clubinternacionalelcentroorg-nuevos-servicios  even "><a href="http://www.clubinternacionalelcentro.org/nuevos-servicios" title="">Juegos Infantiles</a></li>
+<li class="menu-550 menuparent  menu-path-javascript-void0  odd "><a href="javascript: void(0);" title="">Supermercado</a><ul><li class="menu-649 menu-path-clubinternacionalelcentroorg-supermercado first odd "><a href="http://www.clubinternacionalelcentro.org/supermercado" title="">Información</a></li>
+<li class="menu-650 menu-path-clubinternacionalelcentroorg-promociones  even "><a href="http://www.clubinternacionalelcentro.org/promociones" title="">Promociones</a></li>
+<li class="menu-651 menu-path-clubinternacionalelcentroorg-ganadores-0  odd last"><a href="http://www.clubinternacionalelcentro.org/ganadores-0" title="">Ganadores Sorteos</a></li>
+</ul></li>
+<li class="menu-553 menu-path-clubinternacionalelcentroorg-gimnasio  even "><a href="http://www.clubinternacionalelcentro.org/gimnasio" title="">Gimnasio</a></li>
+<li class="menu-552 menu-path-clubinternacionalelcentroorg-pagos-electrc3b3nicos-psel  odd "><a href="http://www.clubinternacionalelcentro.org/pagos-electr%C3%B3nicos-psel" title="">Pagos PSE</a></li>
+<li class="menu-622 menu-path-clubinternacionalelcentroorg-horarios-de-piscina  even "><a href="http://www.clubinternacionalelcentro.org/horarios-de-piscina" title="">Piscina</a></li>
+<li class="menu-633 menu-path-clubinternacionalelcentroorg-mesas-de-billar-y-pool  odd last"><a href="http://www.clubinternacionalelcentro.org/mesas-de-billar-y-pool" title="">Billar y Pool</a></li>
+</ul></li>
+<li class="menu-409 menu-path-node-22  odd last"><a href="/cont%C3%A1ctenos" title="">Contáctenos</a></li>
+</ul>
+  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+    </div>
+</div>
+<!--fincontmenu-->
+
+<!--contenidogral-->
+<div class="container">
+	<div class="contgralinterno">
+        <!--colizq-->
+        <div class="colizq">
+
+            <!--contnoticiasydestacado-->
+            <div class="contseccion">
+      
+            	<div class="tituloseccion">
+                                                            Gran Promo Supermercado                                                    
+                </div>
+                    
+             <!--textoseccion-->
+             <div id="pane1" class="scroll-pane">
+             	<div class="textoseccion">
+                                                      <a id="main-content"></a>
+                                                                                            <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+      
+  <div class="content">
+    <div id="node-899" class="node node-pagina-b-sica view-mode-full clearfix" about="/gran-promo-supermercado" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Gran Promo Supermercado" class="rdf-meta element-hidden"></span>
+  
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img alt="" src="/sites/default/files/images/SUPERMERCADO_DESCUENTO_BIG.jpg" style="height: 750px; width: 750px;" /></p>
+</div></div></div>  </div>
+
+  
+  
+</div><!-- /.node -->
+  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+                                  </div>
+             </div>
+             <!--fintextoseccion-->
+        
+            </div>
+            <!--fincontnoticiasydestacado-->
+        
+        
+        
+        </div>
+        <!--fincolizq-->
+    
+        <!--colder-->
+        <div class="colder">
+            <!--contfacebook-->
+            <div class="contfacebook"> 
+                  <div class="region region-facebook">
+    <div id="block-views-facebook-lateral-block" class="block block-views first last odd">
+
+      
+  <div class="content">
+    <div class="view view-facebook-lateral view-id-facebook_lateral view-display-id-block view-dom-id-0f93aa3cfd18cafac3a88493813c1e3c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-body">        <div class="field-content"><p><a href="https://www.facebook.com/Club-Internacional-Barrancabermeja-938817192908017/" target="_blank"><img alt="" src="/sites/default/files/images/face_box.jpg" style="width: 300px; height: 331px;" /></a></p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+            </div>
+            <!--fincontfacebook-->
+
+            <!--conttwitter-->
+            <div class="contwitter">
+
+<a class="twitter-timeline" data-lang="es" data-width="300" data-height="260" href="https://twitter.com/clubintern">Club Internacional Tweets - Curated tweets by TwitterDev</a> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+          
+            </div>
+            <!--finconttwitter-->
+            
+        </div>
+        <!--fincolder-->
+    </div>
+</div>
+<!--fincontenidogral-->
+
+<!--datosbottom-->
+<div class="datosbottom">
+	
+    <div class="container">
+    <!--datos-->
+    <div class="datos">
+          <div class="region region-footer">
+    <div id="block-views-pie-de-pagina-block" class="block block-views first last odd">
+
+      
+  <div class="content">
+    <div class="view view-pie-de-pagina view-id-pie_de_pagina view-display-id-block view-dom-id-06e3fd13d5ff8848acb3ecd9a1399ce5">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-body">        <div class="field-content"><p>E-mail: <a href="mailto:secretariagerencia@clubinternacional.com.co">secretariagerencia@clubinternacional.com.co</a> <br />
+	Teléfono: 3144745963</p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+    </div>
+    <!--findatos-->
+    
+    <!--redesbottom-->
+    <div class="redesbottom">
+          <div class="region region-bottom">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <div class="content">
+    <p><a href="https://www.facebook.com/Club-Internacional-Barrancabermeja-938817192908017/" target="_blank"><img alt="" src="/sites/default/files/images/configuracion/facebook.png" style="width: 45px; height: 46px;" /></a><a href="https://twitter.com/clubintern?ref_src=twsrc%5Etfw&amp;ref_url=http%3A%2F%2Fwww.clubinternacionalelcentro.org%2F%23overlay-context%3D" target="_blank"><img alt="" src="/sites/default/files/images/configuracion/twitter.png" style="width: 45px; height: 46px;" /></a><a href="https://www.instagram.com/clubinternacional_barr/" target="_blank"><img alt="" src="/sites/default/files/images/instagram-logo-png-transparent-background-download.png" style="width: 45px; height: 45px;" /></a><a href="https://www.youtube.com/channel/UC5TXt6J9H441MuHhstiLetA/videos" target="_blank"><img alt="" src="/sites/default/files/images/logoyoutube.png" style="width: 45px; height: 46px;" /></a><a href="http://wa.me/573166074172" target="_blank"><img alt="" src="/sites/default/files/images/icono_wapp_web.png" style="width: 45px; height: 45px;" /></a><a href="https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx?ID=3737" target="_blank"><img alt="" src="/sites/default/files/images/configuracion/logo_pse.png" style="width: 45px; height: 45px;" /></a></p>
+  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+    </div>
+    <!--finredesbottom-->
+    </div>
+</div>
+<!--findatosbottom-->
+  </body>
+</html>
